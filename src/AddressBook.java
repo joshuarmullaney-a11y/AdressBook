@@ -1,6 +1,5 @@
 /*
  * Class: AddressBook
- * Authors: Kevin Lydon and Cameron Hashemi-Pour
  */
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -21,5 +20,6 @@ public class AddressBook implements Serializable {
 		listList.add(work);
 
 	}
+
 
 }
